@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Testing here, I like Node.js and javascript. Also uses Python for automation. Excel ninja.
